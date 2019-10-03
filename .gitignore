@@ -3,3 +3,4 @@
 __pychache__/
 django_project/django_project/__pycache__/
 django_project/blog/__pycache__/
+users.txt
