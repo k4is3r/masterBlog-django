@@ -2,3 +2,4 @@
 .vscode/
 __pychache__/
 django_project/django_project/__pycache__/
+django_project/blog/__pycache__/
